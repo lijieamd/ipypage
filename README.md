@@ -1,2 +1,1 @@
-# ipypage
-Jupyter Notebook "website"
+# Jupyter Notebook "website"
